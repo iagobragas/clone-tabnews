@@ -1,3 +1,5 @@
 # clone-tabnews
 
-Clone do https://www.tabnews.com.br projeto do https://curso.dev
+Clone of [https://www.tabnews.com.br](https://www.tabnews.com.br), a project from [https://curso.dev](https://curso.dev).
+
+The project is hosted at: [https://clone-tabnews.iagobragas.com.br](https://clone-tabnews.iagobragas.com.br)
